@@ -1,0 +1,13 @@
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\UserRegexMS_Test.exe.config
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\UserRegexMS_Test.exe
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\UserRegexMS_Test.pdb
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\Xamarin.Essentials.dll
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\Xamarin.Essentials.pdb
+D:\Visual_Studio\UserRegexMS_Test\bin\Debug\Xamarin.Essentials.xml
+D:\Visual_Studio\UserRegexMS_Test\obj\Debug\UserRegex.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\UserRegexMS_Test\obj\Debug\UserRegex.csproj.CopyComplete
+D:\Visual_Studio\UserRegexMS_Test\obj\Debug\UserRegexMS_Test.exe
+D:\Visual_Studio\UserRegexMS_Test\obj\Debug\UserRegexMS_Test.pdb
+D:\Visual_Studio\UserRegexMS_Test\obj\Debug\UserRegex.csprojAssemblyReference.cache
